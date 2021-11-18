@@ -1,0 +1,2 @@
+Removed 7 countries since we did not have information about their GHG emissions: 
+Aruba (AWB), Virgin British Islands, Cayman Islands,Hong Kong, Palestine, Taiwan, Kosovo (XKX).
